@@ -1,5 +1,5 @@
 # Finetune_Falcon7B
-We finetune Falcon7B on Guanaco Dataset
+Finetune Falcon7B on Guanaco Dataset
 
 Things I learned from this 
 - Parameter Efficient Fine-Tuning (PEFT) on Low-Resource Hardware: [Source Article](https://huggingface.co/blog/peft)
